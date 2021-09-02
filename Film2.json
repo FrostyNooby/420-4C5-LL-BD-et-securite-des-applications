@@ -2,37 +2,82 @@
     "Films":[
     {
       "Titre": "Fight Club",
+      "totalUSA": "37 000 000$",
+      "totalMonde": " 100 900 000$",
+      "description": "Un narrateur anonyme à la première personne (Edward Norton) assiste à des groupes de soutien pour tenter de maîtriser son état émotionnel et de soulager son état d'insomnie. Lorsqu'il rencontre Marla (Helena Bonham Carter), une autre fausse participante à des groupes de soutien, sa vie semble devenir un peu plus supportable. Cependant, lorsqu'il s'associe à Tyler (Brad Pitt), il est entraîné dans un club de combat clandestin et un programme de fabrication de savons. Ensemble, les deux hommes échappent à tout contrôle et s'engagent dans une rivalité compétitive pour l'amour et le pouvoir.",
+      "Budget": "$65 000 000$",
       "directeur": "David Fincher",
       "Auteur": "Jim Uhls(cinéma)",
       "Date": 1999,
       "Vedette": [
         {
           "Nom": "Brad Pitt",
+          "age": "57 ans",
           "Personnage": "Tyler Durden"
         },
         {
           "Nom": "Edward Norton",
+          "age": "52 ans",
           "Personnage": "The Narrator"
+        }
+        {
+          "Nom": "Helena Bonham Carter",
+          "age": "55 ans",
+          "Personnage": "Marla Singer"
         }
       ]
     }
     {
       "Titre": "Les Minions",
+      "totalUSA": "336 045 770 $",
+      "totalMonde": "1 159 398 397 $",
+      "description": "Depuis la nuit des temps, les Minions ont vécu pour servir le plus méprisable des maîtres. Du T-Rex à Napoléon, la tribu facilement distraite a aidé le plus grand et le plus méchant des méchants. Maintenant, rejoignez le chef protecteur Kevin, l'adolescent rebelle Stuart et l'adorable petit Bob lors d'un road trip mondial. Ils gagneront une chance de travailler pour un nouveau patron, la première femme super-vilain au monde, et tenteront de sauver tous les Minions de l'anéantissement.",
+      "Budget": "74 000 000$",
       "directeur": "Kyle Balda, Pierre Coffin",
       "Auteur": "Brian Lynch,",
       "Date": 2015,
       "Vedette": [
       {
         "Nom": "Sandra Bullock",
+        "age": "57 ans",
         "Personnage": "Scarlet Overkill (voix)"
       },
       {
         "Nom": "Jon Hamm",
+        "age": "50 ans",
         "Personnage": "Herb Overkill  (voix)"
       },
       {
         "Nom": "Michael Keaton",
+        "age": "69 ans",
         "Personnage": "Walter Nelson (voix)"
+      }
+    ]
+   }
+   {
+       "Titre": "Bohemian Rhapsody",
+      "totalUSA": "216 428 042 $",
+      "totalMonde": "903 655 259 $",
+      "description": "L'histoire du légendaire groupe de rock britannique Queen et du chanteur Freddie Mercury, menant à leur célèbre performance au Live Aid (1985).",
+      "Budget": "55 000 000$",
+      "directeur": "Bryan Singer, Newton Thomas Sigel",
+      "Auteur": "Anthony McCarten",
+      "Date": 2018,
+      "Vedette": [
+      {
+        "Nom": "Rami Malek",
+        "age": "40 ans",
+        "Personnage": "Freddie Mercury"
+      },
+      {
+        "Nom": "Lucy Boyton",
+        "age": "27 ans",
+        "Personnage": "Mary Austin"
+      },
+      {
+        "Nom": "Mike Myers",
+        "age": "58 ans",
+        "Personnage": "Ray Foster"
       }
     ]
    }
